@@ -1,7 +1,7 @@
-h1 p body{
+h1, p, body{
     margin: 0;
 }
-p a{
+p, a{
     font-size: 20px;
 }
 header{
@@ -11,7 +11,7 @@ header{
     color: rgb(255, 255, 255);
 }
 main{
-    padding: 0;
+    padding: 10px;
 }
 #parent{
     display: flex;
